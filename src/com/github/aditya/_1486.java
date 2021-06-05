@@ -16,7 +16,7 @@ public class _1486 {
                     result = nums[i];
                 }
             }
-            
+
             return result;
         }
     }
