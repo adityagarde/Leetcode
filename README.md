@@ -2,7 +2,7 @@
 
 |  #  |      Title     |   Solutions   | Difficulty  | Tags        |           
 |-----|----------------|---------------|-------------|-------------
-|0001|[Two Sum](https://leetcode.com/problems/two-sum/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0001.java)|Easy|Math |
+|0001|[Two Sum](https://leetcode.com/problems/two-sum/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0001.java)|Easy|Hash Table, Array |
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0007.java)|Easy|Math |
 |0412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0412.java)|Easy|Math, String|
 |0500|[Keyboard Problem](https://leetcode.com/problems/keyboard-row/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0500.java)|Easy|Array, String|
