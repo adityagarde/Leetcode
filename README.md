@@ -5,7 +5,8 @@
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0001.java)|Easy|Hash Table, Array |
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0007.java)|Easy|Math |
 |0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0028.java)|Easy|String|
-|0058|[Length of Last Word]()|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0058.java)|Easy|String|
+|0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0058.java)|Easy|String|
+|0067|[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0067.java)|Easy|Bit Manipulation, String|
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0125.java)|Easy|Two Pointer, String|
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0151.java)|Medium|String|
 |0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0167.java)|Easy|Two Pointer, Array |
