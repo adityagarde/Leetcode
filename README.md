@@ -18,6 +18,7 @@
 |0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0349.java)|Easy|Array|
 |0412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0412.java)|Easy|Math, String|
 |0461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0461.java)|Easy|Bit Manipulation|
+|0477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0477.java)|Medium|Bit Manipulation|
 |0500|[Keyboard Problem](https://leetcode.com/problems/keyboard-row/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0500.java)|Easy|Array, String|
 |0532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0532.java)|Medium|Array, Hash Table|
 |0537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0537.java) | Medium|String, Math|
