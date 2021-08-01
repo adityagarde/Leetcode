@@ -16,6 +16,7 @@
 |0171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0171.java)|Easy|Math|
 |0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0167.java)|Easy|Two Pointer, Array |
 |0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0191.java)|Easy|Bit Manipulation |
+|0260|[Single Number III](https://leetcode.com/problems/single-number-iii/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0260.java)|Medium|Bit Manipulation |
 |0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0349.java)|Easy|Array|
 |0412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0412.java)|Easy|Math, String|
 |0461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0461.java)|Easy|Bit Manipulation|
