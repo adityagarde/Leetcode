@@ -7,6 +7,7 @@
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0009.java)|Easy|Math |
 |0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0028.java)|Easy|String|
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0058.java)|Easy|String|
+|0066|[Plus One](https://leetcode.com/problems/plus-one/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0066.java)|Easy|Array|
 |0067|[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0067.java)|Easy|Bit Manipulation, String|
 |0075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0075.java)|Medium|Two Pointer, Array|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0088.java)|Easy|Two Pointer, Array|
