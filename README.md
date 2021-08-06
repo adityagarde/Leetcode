@@ -5,6 +5,7 @@
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0001.java)|Easy|Hash Table, Array |
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0007.java)|Easy|Math |
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0009.java)|Easy|Math |
+|0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0026.java)|Easy|Array, Two Pointer|
 |0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0028.java)|Easy|String|
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0058.java)|Easy|String|
 |0066|[Plus One](https://leetcode.com/problems/plus-one/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0066.java)|Easy|Array|
