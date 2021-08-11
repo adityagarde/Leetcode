@@ -1,8 +1,30 @@
 package com.github.aditya;
 
+import java.util.Arrays;
+
 public class _0014 {
-    // Brute Force approach - 8ms
+    // Using Sorting - 1ms
+    // Sorting the given array, and then comparing the first and last entries.
     public static class Solution {
+        public String longestCommonPrefix(String[] strs) {
+            if (strs == null || strs.length == 0)
+                return "";
+
+            Arrays.sort(strs);
+            int count = 0;
+            while (count < strs[0].length()) {
+                if (strs[0].charAt(count) == strs[strs.length - 1].charAt(count))
+                    count++;
+                else
+                    break;
+            }
+            return count == 0 ? "" : strs[0].substring(0, count);
+        }
+    }
+
+
+    // Brute Force approach - 8ms
+    public static class Solution_1 {
         public String longestCommonPrefix(String[] strs) {
             String result = "";
             if (strs == null || strs.length == 0)
@@ -22,7 +44,7 @@ public class _0014 {
     }
 
     public static void main(String[] args) {
-        Solution sol = new Solution();
-        System.out.println(sol.longestCommonPrefix(new String[]{"flower", "flow", "flood"}));
+        Solution_1 sol = new Solution_1();
+        System.out.println(sol.longestCommonPrefix(new String[]{"flower", "flow", "flood", "flash", "flesh"}));
     }
 }
