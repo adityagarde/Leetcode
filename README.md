@@ -39,6 +39,7 @@
 |0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0680.java)|Easy|Two Pointer, String|
 |0704|[Binary Search](https://leetcode.com/problems/binary-search)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0704.java)|Easy|Binary Search|
 |0709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0709.java)|Easy|String|
+|0744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0744.java)|Easy|Binary Search, Array|
 |0771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0771.java)|Easy|String, Hash Table|
 |0890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0890.java)|Medium|String, Hash Table|
 |0921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0921.java)|Medium|String|
