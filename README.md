@@ -42,6 +42,7 @@
 |0709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0709.java)|Easy|String|
 |0744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0744.java)|Easy|Binary Search, Array|
 |0771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0771.java)|Easy|String, Hash Table|
+|0852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0852.java)|Easy|Binary Search, Array|
 |0890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0890.java)|Medium|String, Hash Table|
 |0921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0921.java)|Medium|String|
 |0929|[Unique Email Address](https://leetcode.com/problems/unique-email-addresses)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0929.java)|Easy|String|
