@@ -15,6 +15,7 @@
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0058.java)|Easy|String|
 |0066|[Plus One](https://leetcode.com/problems/plus-one/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0066.java)|Easy|Array|
 |0067|[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0067.java)|Easy|Bit Manipulation, String|
+|0074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0074.java)|Medium|Binary Search, Matrix|
 |0075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0075.java)|Medium|Two Pointer, Array|
 |0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0080.java)|Medium|Two Pointer, Array|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0088.java)|Easy|Two Pointer, Array|
