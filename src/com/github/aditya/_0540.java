@@ -8,7 +8,7 @@ public class _0540 {
      * Regarding going left or right of the middle - Observe that in a normal situation where every element is appearing twice -
      * the index of the pair always start with an even number. Ex - [1, 1] is starting at index 0 - [2, 2] is starting at 2 and so on.
      *
-     *  0 1 2 3 4 5 6   7 8     0 1  2  3 4 5 6 7 8   - The Index of the Number Array Elements.
+     *  0 1 2 3 4 5  6  7 8     0 1  2  3 4 5 6 7 8   - The Index of the Number Array Elements.
      * [1 1 2 2 3 3 (4) 5 5]   [1 1 (2) 3 3 4 4 5 5]  - Sorted Number Array with One Number Appearing Exactly Once.
      *
      * But as soon as an element appears only once - this is changed and now the first element of the pair starts appearing on odd indices.
