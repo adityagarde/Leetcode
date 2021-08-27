@@ -51,6 +51,7 @@
 |0929|[Unique Email Address](https://leetcode.com/problems/unique-email-addresses)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0929.java)|Easy|String|
 |0917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0917.java)|Easy|Two Pointer, String|
 |0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0977.java)|Easy|Two Pointer, Array|
+|1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1011.java)|Medium|Binary Search, Array, Greedy|
 |1041|[Robot Bounded in Circle](https://leetcode.com/problems/robot-bounded-in-circle)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1041.java)|Medium|String, Math|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1108.java)|Easy|String|
 |1121|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1121.java)|Easy|String|
