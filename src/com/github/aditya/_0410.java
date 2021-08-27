@@ -23,7 +23,7 @@ public class _0410 {
             return result;
         }
 
-        private boolean isValid(int[] arr, int days, int mid) {
+        private boolean isValid(int[] arr, int m, int mid) {
             int count = 1;
             int sum = 0;
 
@@ -33,7 +33,7 @@ public class _0410 {
                     count++;
                     sum = arr[i];
                 }
-                if (count > days)
+                if (count > m)
                     return false;
             }
             return true;
