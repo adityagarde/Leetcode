@@ -32,6 +32,7 @@
 |0240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0240.java)|Medium|Binary Search, Matrix|
 |0260|[Single Number III](https://leetcode.com/problems/single-number-iii/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0260.java)|Medium|Bit Manipulation |
 |0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0349.java)|Easy|Array|
+|0367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0367.java)|Easy|Binary Search, Math|
 |0410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0410.java)|Hard|Binary Search, Array, Greedy|
 |0412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0412.java)|Easy|Math, String|
 |0461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0461.java)|Easy|Bit Manipulation|
