@@ -38,6 +38,7 @@
 |0461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0461.java)|Easy|Bit Manipulation|
 |0477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0477.java)|Medium|Bit Manipulation|
 |0485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0485.java)|Easy|Array|
+|0496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0496.java)|Easy|Array, Stack, Hash Table|
 |0500|[Keyboard Problem](https://leetcode.com/problems/keyboard-row/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0500.java)|Easy|Array, String|
 |0503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0503.java)|Medium|Array, Stack|
 |0532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0532.java)|Medium|Array, Hash Table|
