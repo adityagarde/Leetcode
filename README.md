@@ -47,6 +47,7 @@
 |0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0680.java)|Easy|Two Pointer, String|
 |0704|[Binary Search](https://leetcode.com/problems/binary-search)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0704.java)|Easy|Binary Search|
 |0709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0709.java)|Easy|String|
+|0739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0739.java)|Medium|Array, Stack|
 |0744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0744.java)|Easy|Binary Search, Array|
 |0771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0771.java)|Easy|String, Hash Table|
 |0852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0852.java)|Easy|Binary Search, Array|
