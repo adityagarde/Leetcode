@@ -18,6 +18,7 @@
 |0074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0074.java)|Medium|Binary Search, Matrix|
 |0075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0075.java)|Medium|Two Pointer, Array|
 |0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0080.java)|Medium|Two Pointer, Array|
+|0081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0081.java)|Medium|Binary Search, Array|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0088.java)|Easy|Two Pointer, Array|
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0125.java)|Easy|Two Pointer, String|
 |0136|[Single Number](https://leetcode.com/problems/single-number/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0136.java)|Easy|Bit Manipulation|
