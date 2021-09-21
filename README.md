@@ -74,6 +74,7 @@
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1512.java)|Easy|Array|
 |1518|[Water Bottles](https://leetcode.com/problems/water-bottles)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1518.java)|Easy|Array|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1528.java)|Easy|String|
+|1589|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1589.java)|Easy|Array, String, Stack|
 |1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1614.java)|Easy|String|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1662.java)|Easy|Array, String|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1672.java)|Easy|Array|
