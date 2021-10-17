@@ -47,6 +47,7 @@
 |0532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0532.java)|Medium|Array, Hash Table|
 |0537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0537.java)|Medium|String, Math|
 |0540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0540.java)|Medium|Binary Search, Array|
+|0556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0556.java)|Medium|Math, String|
 |0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0680.java)|Easy|Two Pointer, String|
 |0704|[Binary Search](https://leetcode.com/problems/binary-search)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0704.java)|Easy|Binary Search|
 |0709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0709.java)|Easy|String|
