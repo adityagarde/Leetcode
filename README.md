@@ -23,6 +23,7 @@
 |0081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0081.java)|Medium|Binary Search, Array|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0088.java)|Easy|Two Pointer, Array|
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0125.java)|Easy|Two Pointer, String|
+|0128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0128.java)|Medium|Array, Hash Table|
 |0136|[Single Number](https://leetcode.com/problems/single-number/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0136.java)|Easy|Bit Manipulation|
 |0137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0137.java)|Medium|Bit Manipulation|
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0151.java)|Medium|String|
