@@ -37,6 +37,7 @@
 |0260|[Single Number III](https://leetcode.com/problems/single-number-iii/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0260.java)|Medium|Bit Manipulation |
 |0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0349.java)|Easy|Array|
 |0367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0367.java)|Easy|Binary Search, Math|
+|0387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0387.java)|Easy|String, Hash Table|
 |0410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0410.java)|Hard|Binary Search, Array, Greedy|
 |0412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0412.java)|Easy|Math, String|
 |0461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0461.java)|Easy|Bit Manipulation|
