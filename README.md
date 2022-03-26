@@ -7,7 +7,7 @@
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0009.java)|Easy|Math |
 |0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0014.java)|Easy|String|
 |0015|[3Sum](https://leetcode.com/problems/3sum/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0015.java)|Medium|Array, Two Pointer, Sorting|
-|0015|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0016.java)|Medium|Array, Two Pointer, Sorting|
+|0016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0016.java)|Medium|Array, Two Pointer, Sorting|
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0020.java)|Easy|String, Stack|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0026.java)|Easy|Array, Two Pointer|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0027.java)|Easy|Array, Two Pointer|
