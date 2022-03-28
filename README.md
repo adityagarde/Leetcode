@@ -37,6 +37,7 @@
 |0171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0171.java)|Easy|Math|
 |0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0191.java)|Easy|Bit Manipulation|
 |0205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0205.java)|Easy|String, Hash Table|
+|0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0206.java)|Easy|Linked List, Recursion|
 |0240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0240.java)|Medium|Binary Search, Matrix|
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0242.java)|Easy|Hash Table, String, Sorting|
 |0260|[Single Number III](https://leetcode.com/problems/single-number-iii/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0260.java)|Medium|Bit Manipulation |
