@@ -16,6 +16,7 @@
 |0033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0033.java)|Medium|Binary Search, Array|
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0034.java)|Medium|Binary Search, Array|
 |0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0035.java)|Easy|Binary Search, Array|
+|0048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0048.java)|Medium|Array, Math, Matrix|
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0058.java)|Easy|String|
 |0066|[Plus One](https://leetcode.com/problems/plus-one/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0066.java)|Easy|Array|
 |0067|[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0067.java)|Easy|Bit Manipulation, String|
