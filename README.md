@@ -94,4 +94,5 @@
 |1832|[Check if the Sentence is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1832.java)|Easy|String, Hash Table|
 |1859|[Sorting the sentence](https://leetcode.com/problems/sorting-the-sentence)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1859.java)|Easy|String|
 |1880|[Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1880.java)|Easy|String|
+|1886|[Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1886.java)|Easy|Array, Matrix|
 |1925|[Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1925.java)|Easy|Math|
