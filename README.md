@@ -11,6 +11,7 @@
 |0018|[4Sum](https://leetcode.com/problems/4sum/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0018.java)|Medium|Array, Two Pointers, Sorting|
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0019.java)|Medium|Linked List, Two Pointers|
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0020.java)|Easy|String, Stack|
+|0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0021.java)|Easy|Linked List, Recursion|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0026.java)|Easy|Array, Two Pointers|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0027.java)|Easy|Array, Two Pointers|
 |0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0028.java)|Easy|String|
