@@ -6,12 +6,13 @@
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0007.java)|Easy|Math |
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0009.java)|Easy|Math |
 |0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0014.java)|Easy|String|
-|0015|[3Sum](https://leetcode.com/problems/3sum/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0015.java)|Medium|Array, Two Pointer, Sorting|
-|0016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0016.java)|Medium|Array, Two Pointer, Sorting|
-|0018|[4Sum](https://leetcode.com/problems/4sum/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0018.java)|Medium|Array, Two Pointer, Sorting|
+|0015|[3Sum](https://leetcode.com/problems/3sum/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0015.java)|Medium|Array, Two Pointers, Sorting|
+|0016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0016.java)|Medium|Array, Two Pointers, Sorting|
+|0018|[4Sum](https://leetcode.com/problems/4sum/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0018.java)|Medium|Array, Two Pointers, Sorting|
+|0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0019.java)|Medium|Linked List, Two Pointers|
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0020.java)|Easy|String, Stack|
-|0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0026.java)|Easy|Array, Two Pointer|
-|0027|[Remove Element](https://leetcode.com/problems/remove-element/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0027.java)|Easy|Array, Two Pointer|
+|0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0026.java)|Easy|Array, Two Pointers|
+|0027|[Remove Element](https://leetcode.com/problems/remove-element/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0027.java)|Easy|Array, Two Pointers|
 |0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0028.java)|Easy|String|
 |0033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0033.java)|Medium|Binary Search, Array|
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0034.java)|Medium|Binary Search, Array|
@@ -22,18 +23,18 @@
 |0067|[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0067.java)|Easy|Bit Manipulation, String|
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0069.java)|Easy|Binary Search, Math|
 |0074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0074.java)|Medium|Binary Search, Matrix|
-|0075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0075.java)|Medium|Two Pointer, Array|
-|0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0080.java)|Medium|Two Pointer, Array|
+|0075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0075.java)|Medium|Two Pointers, Array|
+|0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0080.java)|Medium|Two Pointers, Array|
 |0081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0081.java)|Medium|Binary Search, Array|
-|0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0088.java)|Easy|Two Pointer, Array|
-|0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0125.java)|Easy|Two Pointer, String|
+|0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0088.java)|Easy|Two Pointers, Array|
+|0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0125.java)|Easy|Two Pointers, String|
 |0128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0128.java)|Medium|Array, Hash Table|
 |0136|[Single Number](https://leetcode.com/problems/single-number/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0136.java)|Easy|Bit Manipulation|
 |0137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0137.java)|Medium|Bit Manipulation|
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0151.java)|Medium|String|
 |0153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0153.java)|Medium|Binary Search, Array|
 |0162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0162.java)|Medium|Binary Search, Array|
-|0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0167.java)|Easy|Two Pointer, Array |
+|0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0167.java)|Easy|Two Pointers, Array |
 |0171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0171.java)|Easy|Math|
 |0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0191.java)|Easy|Bit Manipulation|
 |0205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0205.java)|Easy|String, Hash Table|
@@ -58,7 +59,7 @@
 |0537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0537.java)|Medium|String, Math|
 |0540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0540.java)|Medium|Binary Search, Array|
 |0556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0556.java)|Medium|Math, String|
-|0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0680.java)|Easy|Two Pointer, String|
+|0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0680.java)|Easy|Two Pointers, String|
 |0704|[Binary Search](https://leetcode.com/problems/binary-search)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0704.java)|Easy|Binary Search|
 |0709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0709.java)|Easy|String|
 |0739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0739.java)|Medium|Array, Stack|
@@ -69,8 +70,8 @@
 |0890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0890.java)|Medium|String, Hash Table|
 |0921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0921.java)|Medium|String|
 |0929|[Unique Email Address](https://leetcode.com/problems/unique-email-addresses)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0929.java)|Easy|String|
-|0917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0917.java)|Easy|Two Pointer, String|
-|0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0977.java)|Easy|Two Pointer, Array|
+|0917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0917.java)|Easy|Two Pointers, String|
+|0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0977.java)|Easy|Two Pointers, Array|
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1011.java)|Medium|Binary Search, Array, Greedy|
 |1041|[Robot Bounded in Circle](https://leetcode.com/problems/robot-bounded-in-circle)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1041.java)|Medium|String, Math|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1108.java)|Easy|String|
