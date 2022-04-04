@@ -35,6 +35,7 @@
 |0137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0137.java)|Medium|Bit Manipulation|
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0151.java)|Medium|String|
 |0153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0153.java)|Medium|Binary Search, Array|
+|0160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0160.java)|Easy|Hash Table, Linked List, Two Pointers|
 |0162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0162.java)|Medium|Binary Search, Array|
 |0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0167.java)|Easy|Two Pointers, Array |
 |0171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0171.java)|Easy|Math|
