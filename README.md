@@ -96,6 +96,7 @@
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1672.java)|Easy|Array|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1678.java)|Easy|String|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1684.java)|Easy|String|
+|1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1721.java)|Medium|Linked List, Two Pointers|
 |1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1773.java)|Easy|String|
 |1816|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1816.java)|Easy|String|
 |1832|[Check if the Sentence is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1832.java)|Easy|String, Hash Table|
