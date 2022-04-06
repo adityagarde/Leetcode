@@ -14,6 +14,7 @@
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0019.java)|Medium|Linked List, Two Pointers|
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0020.java)|Easy|String, Stack|
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0021.java)|Easy|Linked List, Recursion|
+|0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0024.java)|Medium|Linked List|
 |0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0025.java)|Hard|Linked List|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0026.java)|Easy|Array, Two Pointers|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0027.java)|Easy|Array, Two Pointers|
