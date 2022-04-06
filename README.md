@@ -75,6 +75,7 @@
 |0876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0876.java)|Easy|Linked List, Two Pointers|
 |0890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0890.java)|Medium|String, Hash Table|
 |0921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0921.java)|Medium|String|
+|0923|[3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0923.java)|Medium|Array, Hash Table, Two Pointers, Counting, Sorting|
 |0929|[Unique Email Address](https://leetcode.com/problems/unique-email-addresses)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0929.java)|Easy|String|
 |0917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0917.java)|Easy|Two Pointers, String|
 |0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0977.java)|Easy|Two Pointers, Array|
