@@ -45,6 +45,7 @@
 |0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0191.java)|Easy|Bit Manipulation|
 |0205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0205.java)|Easy|String, Hash Table|
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0206.java)|Easy|Linked List, Recursion|
+|0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0234.java)|Easy|Linked List, Two Pointers|
 |0237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0237.java)|Easy|Linked List|
 |0240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0240.java)|Medium|Binary Search, Matrix|
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0242.java)|Easy|Hash Table, String, Sorting|
