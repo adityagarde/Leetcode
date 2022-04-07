@@ -85,6 +85,7 @@
 |0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0977.java)|Easy|Two Pointers, Array|
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1011.java)|Medium|Binary Search, Array, Greedy|
 |1041|[Robot Bounded in Circle](https://leetcode.com/problems/robot-bounded-in-circle)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1041.java)|Medium|String, Math|
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1046.java)|Easy|Array, Heap(Priority Queue)|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1108.java)|Easy|String|
 |1121|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1121.java)|Easy|String|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1281.java)|Easy|Math|
