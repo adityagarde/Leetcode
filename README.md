@@ -47,7 +47,7 @@
 |0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0191.java)|Easy|Bit Manipulation|
 |0205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0205.java)|Easy|String, Hash Table|
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0206.java)|Easy|Linked List, Recursion|
-|0215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0215.java)|Medium|Array, Priority Queue(Heap)|
+|0215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0215.java)|Medium|Array, Heap(Priority Queue)|
 |0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0234.java)|Easy|Linked List, Two Pointers|
 |0237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0237.java)|Easy|Linked List|
 |0240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0240.java)|Medium|Binary Search, Matrix|
@@ -112,3 +112,4 @@
 |1880|[Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1880.java)|Easy|String|
 |1886|[Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1886.java)|Easy|Array, Matrix|
 |1925|[Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1925.java)|Easy|Math|
+|1985|[Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1985.java)|Medium|Array, String, Heap(Priority Queue)|
