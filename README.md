@@ -59,6 +59,7 @@
 |0387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0387.java)|Easy|String, Hash Table|
 |0410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0410.java)|Hard|Binary Search, Array, Greedy|
 |0412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0412.java)|Easy|Math, String|
+|0451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0451.java)|Medium|Hash Table, String, Heap(Priority Queue), Counting|
 |0454|[4Sum II](https://leetcode.com/problems/4sum-ii/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0454.java)|Medium|Array, Hash Table|
 |0461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0461.java)|Easy|Bit Manipulation|
 |0477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0477.java)|Medium|Bit Manipulation|
