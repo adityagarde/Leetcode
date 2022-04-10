@@ -92,6 +92,7 @@
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1046.java)|Easy|Array, Heap(Priority Queue)|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1108.java)|Easy|String|
 |1121|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1121.java)|Easy|String|
+|1260|[Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1260.java)|Easy|Array, Matrix, Simulation|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1281.java)|Easy|Math|
 |1283|[Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1283.java)|Medium|Binary Search, Array|
 |1347|[Minimum number od Steps to make two Strings Anagrams](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1347.java)|Medium|String|
