@@ -76,6 +76,7 @@
 |0540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0540.java)|Medium|Binary Search, Array|
 |0556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0556.java)|Medium|Math, String|
 |0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0680.java)|Easy|Two Pointers, String|
+|0669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0669.java)|Medium|Tree, Depth-First Search, Binary Search Tree, Binary Tree|
 |0682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0682.java)|Easy|Array, Stack, Simulation|
 |0700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0700.java)|Easy|Tree, Binary Search Tree, Binary Tree|
 |0703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0703.java)|Easy|Design, Heap(Priority Queue), Data Stream|
