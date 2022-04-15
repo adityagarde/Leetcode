@@ -74,6 +74,7 @@
 |0503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0503.java)|Medium|Array, Stack|
 |0532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0532.java)|Medium|Array, Hash Table|
 |0537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0537.java)|Medium|String, Math|
+|0538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0538.java)|Medium|Tree, Depth-First Search, Binary Search Tree, Binary Tree|
 |0540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0540.java)|Medium|Binary Search, Array|
 |0556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0556.java)|Medium|Math, String|
 |0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0680.java)|Easy|Two Pointers, String|
