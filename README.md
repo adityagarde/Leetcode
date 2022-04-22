@@ -87,6 +87,7 @@
 |0703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0703.java)|Easy|Design, Heap(Priority Queue), Data Stream|
 |0704|[Binary Search](https://leetcode.com/problems/binary-search)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0704.java)|Easy|Binary Search|
 |0705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0705.java)|Easy|Array, Hash Table, Linked List, Design, Hash Function|
+|0706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0706.java)|Easy|Array, Hash Table, Linked List, Design, Hash Function|
 |0709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0709.java)|Easy|String|
 |0739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0739.java)|Medium|Array, Stack|
 |0744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0744.java)|Easy|Binary Search, Array|
