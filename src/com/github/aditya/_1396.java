@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class _1396 {
-    // 99 ms, faster than 84.10%, meory 54.3 MB, less than 99.59%
+    // 99 ms, faster than 84.10%, memory 54.3 MB, less than 99.59%
     // Because of HashMap, all methods will have ~O(1) time complexity and O(m + n) space complexity, m and n is size of 2 HashMaps.
     class UndergroundSystem {
         private static final String DELIM = "->";
