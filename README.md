@@ -59,6 +59,7 @@
 |0240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0240.java)|Medium|Binary Search, Matrix|
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0242.java)|Easy|Hash Table, String, Sorting|
 |0260|[Single Number III](https://leetcode.com/problems/single-number-iii/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0260.java)|Medium|Bit Manipulation |
+|0284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0284.java)|Medium|Array Design, Iterator|
 |0289|[Game of Life](https://leetcode.com/problems/game-of-life/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0289.java)|Medium|Array, Matrix, Simulation|
 |0344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0344.java)|Easy|Two Pointers, String|
 |0347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0347.java)|Medium|Array, Hash Table, Heap(Priority Queue), Counting|
