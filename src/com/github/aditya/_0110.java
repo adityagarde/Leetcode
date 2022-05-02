@@ -2,6 +2,7 @@ package com.github.aditya;
 
 public class _0110 {
     // 1 ms, faster than 90.75%, memory 41.7 MB, less than 93.06%
+    // Time Complexity O(n), Space Complexity O(n) (because of recursion stack)
     class Solution {
         public boolean isBalanced(TreeNode root) {
             return getBalancedHeight(root) != -1;
