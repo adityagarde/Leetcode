@@ -10,6 +10,7 @@
 |0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0014.java)|Easy|String|
 |0015|[3Sum](https://leetcode.com/problems/3sum/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0015.java)|Medium|Array, Two Pointers, Sorting|
 |0016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0016.java)|Medium|Array, Two Pointers, Sorting|
+|0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0017.java)|Medium|Hash Table, String, Backtracking|
 |0018|[4Sum](https://leetcode.com/problems/4sum/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0018.java)|Medium|Array, Two Pointers, Sorting|
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0019.java)|Medium|Linked List, Two Pointers|
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0020.java)|Easy|String, Stack|
