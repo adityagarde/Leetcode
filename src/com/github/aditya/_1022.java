@@ -1,9 +1,8 @@
 package com.github.aditya;
 
-import java.util.List;
-
 public class _1022 {
     // 0 ms, faster than 100.00%, memory 42 MB, less than 72.92%
+    // Preorder Traversal - Time Complexity O(n) and Space Complexity O(h)
     static class Solution {
         public int sumRootToLeaf(TreeNode root) {
             return sumRootToLeaf(root, 0);
