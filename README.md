@@ -168,3 +168,4 @@
 |1886|[Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1886.java)|Easy|Array, Matrix|
 |1925|[Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1925.java)|Easy|Math|
 |1985|[Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1985.java)|Medium|Array, String, Heap(Priority Queue)|
+|2108|[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_2108.java)|Easy|Array, Two Pointers, String|
