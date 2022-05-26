@@ -72,6 +72,7 @@
 |0225|[Implement Stack using Queues](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0225.java)|Easy|Stack, Design, Queue|
 |0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0226.java)|Easy|Tree, Depth-First Search, Binary Search Tree, Binary Tree|
 |0230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0230.java)|Medium|Tree, Depth-First Search, Binary Search Tree, Binary Tree|
+|0231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0231.java)|Easy|Math, Bit Manipulation, Recursion|
 |0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0234.java)|Easy|Linked List, Two Pointers|
 |0237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0237.java)|Easy|Linked List|
 |0240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0240.java)|Medium|Binary Search, Matrix|
