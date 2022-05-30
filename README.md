@@ -66,6 +66,7 @@
 |0173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0173.java)|Medium|Stack, Tree, Design, Binary Search Tree, Binary Tree, Iterator|
 |0189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0189.java)|Medium|Array, Math, Two Pointers|
 |0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0191.java)|Easy|Bit Manipulation|
+|0203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0203.java)|Easy|Linked List|
 |0205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0205.java)|Easy|String, Hash Table|
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0206.java)|Easy|Linked List, Recursion|
 |0215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0215.java)|Medium|Array, Heap(Priority Queue)|
