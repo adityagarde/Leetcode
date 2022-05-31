@@ -19,7 +19,7 @@
 |0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0025.java)|Hard|Linked List|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0026.java)|Easy|Array, Two Pointers|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0027.java)|Easy|Array, Two Pointers|
-|0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0028.java)|Easy|String|
+|0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0028.java)|Easy|Two Pointers, String, String Matching|
 |0031|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0031.java)|Medium|Array, Two Pointers|
 |0033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0033.java)|Medium|Binary Search, Array|
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0034.java)|Medium|Binary Search, Array|

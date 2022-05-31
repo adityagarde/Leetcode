@@ -1,21 +1,15 @@
 package com.github.aditya;
 
 public class _0028 {
-    public static class Solution {
+    // 1 ms, faster than 57.63%, memory 41.9 MB, less than 55.11%
+    // Time Complexity O(m*n) and Space Complexity O(1)
+    class Solution {
         public int strStr(String haystack, String needle) {
             if (needle.isEmpty()) return 0;
-            if (haystack.isEmpty() || (haystack.length() < needle.length())) return -1;
 
-            for (int i = 0; i < haystack.length(); i++) {
-                if (haystack.charAt(i) == needle.charAt(0)) {
-                    for (int j = 0; j <= needle.length() && (i + j < haystack.length()); j++) {
-                        if (haystack.charAt(i + j) != needle.charAt(j)) {
-                            break;
-                        } else if (haystack.charAt(i + j) == needle.charAt(j) && j == needle.length() - 1) {
-                            return i;
-                        }
-                    }
-                }
+            for (int i = 0; i < haystack.length() + 1 - needle.length(); i++) {
+                if (haystack.substring(i, i + needle.length()).equals(needle))
+                    return i;
             }
             return -1;
         }
