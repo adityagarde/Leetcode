@@ -152,7 +152,7 @@
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1431.java)|Easy|Array|
 |1461|[Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1461.java)|Medium|Hash Table, String|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1470.java)|Easy|Array|
-|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1480.java)|Easy|Array|
+|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1480.java)|Easy|Array, Prefix Sum|
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1486.java)|Easy|Array|
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1512.java)|Easy|Array|
 |1518|[Water Bottles](https://leetcode.com/problems/water-bottles)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1518.java)|Easy|Array|
