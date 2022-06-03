@@ -84,6 +84,7 @@
 |0284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0284.java)|Medium|Array Design, Iterator|
 |0289|[Game of Life](https://leetcode.com/problems/game-of-life/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0289.java)|Medium|Array, Matrix, Simulation|
 |0303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0303.java)|Easy|Array, Design, Prefix Sum|
+|0304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0304.java)|Medium|Array, Design, Matrix, Prefix Sum|
 |0344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0344.java)|Easy|Two Pointers, String|
 |0347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0347.java)|Medium|Array, Hash Table, Heap(Priority Queue), Counting|
 |0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0349.java)|Easy|Array|
