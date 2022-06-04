@@ -24,6 +24,7 @@
 |0033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0033.java)|Medium|Binary Search, Array|
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0034.java)|Medium|Binary Search, Array|
 |0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0035.java)|Easy|Binary Search, Array|
+|0046|[Permutations](https://leetcode.com/problems/permutations/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0046.java)|Medium|Array, Backtracking|
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0048.java)|Medium|Array, Math, Matrix|
 |0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0054.java)|Medium|Array, Matrix, Simulation|
 |0059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0059.java)|Medium|Array, Matrix, Simulation|
