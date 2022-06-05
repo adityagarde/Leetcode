@@ -28,6 +28,7 @@
 |0046|[Permutations](https://leetcode.com/problems/permutations/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0046.java)|Medium|Array, Backtracking|
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0048.java)|Medium|Array, Math, Matrix|
 |0051|[N-Queens](https://leetcode.com/problems/n-queens/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0051.java)|Hard|Array, Backtracking|
+|0052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0052.java)|Hard|Array, Backtracking|
 |0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0054.java)|Medium|Array, Matrix, Simulation|
 |0059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0059.java)|Medium|Array, Matrix, Simulation|
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0058.java)|Easy|String|
