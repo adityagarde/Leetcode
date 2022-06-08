@@ -1,7 +1,7 @@
 package com.github.aditya;
 
 public class _0124 {
-    // 1 ms, faster than 87.10%, memory 47.3 MB, less than 66.14%
+    // 1 ms, faster than 97.55%, memory 47.3 MB, less than 66.14%
     class Solution {
         int maxSum = Integer.MIN_VALUE;
 
