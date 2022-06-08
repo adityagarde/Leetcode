@@ -129,6 +129,7 @@
 |0739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0739.java)|Medium|Array, Stack|
 |0744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0744.java)|Easy|Binary Search, Array|
 |0771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0771.java)|Easy|String, Hash Table|
+|0784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0784.java)|Medium|String, Backtracking|
 |0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0844.java)|Easy|String, Stack, Simulation|
 |0852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0852.java)|Easy|Binary Search, Array|
 |0867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0867.java)|Easy|Array, Matrix, Simulation|
