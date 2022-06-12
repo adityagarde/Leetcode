@@ -177,6 +177,7 @@
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1678.java)|Easy|String|
 |1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1679.java)|Medium|Array, Hash Table, Two Pointers, Sorting|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1684.java)|Easy|String|
+|1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1695.java)|Medium|Array, Hash Table, Sliding Window|
 |1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1721.java)|Medium|Linked List, Two Pointers|
 |1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1773.java)|Easy|String|
 |1816|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1816.java)|Easy|String|
