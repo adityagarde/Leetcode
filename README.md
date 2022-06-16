@@ -5,6 +5,7 @@
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0001.java)|Easy|Hash Table, Array|
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0002.java)|Medium|Linked List, Math, Recursion|
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0003.java)|Medium|Hash Table, String, Sliding Window|
+|0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0005.java)|Medium|String, Dynamic Programming|
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0007.java)|Easy|Math|
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0009.java)|Easy|Math|
 |0011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0011.java)|Medium|Array, Two Pointers, Greedy|
