@@ -173,6 +173,7 @@
 |1589|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1589.java)|Easy|Array, String, Stack|
 |1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1614.java)|Easy|String|
 |1636|[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1636.java)|Easy|Array, Hash Table, Sorting|
+|1642|[Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1642.java)|Medium|Array, Greedy, Heap(Priority Queue)|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1662.java)|Easy|Array, String|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1672.java)|Easy|Array|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1678.java)|Easy|String|
