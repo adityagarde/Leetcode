@@ -44,6 +44,7 @@
 |0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0080.java)|Medium|Two Pointers, Array|
 |0081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0081.java)|Medium|Binary Search, Array|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0088.java)|Easy|Two Pointers, Array|
+|0090|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0090.java)|Medium|Array, Backtracking|
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0094.java)|Easy|Stack, Tree, Depth-First Search, Binary Tree|
 |0100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0100.java)|Easy|Tree, Depth-First Search, Breadth-First Search, Binary Tree|
 |0102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0102.java)|Easy|Tree, Breadth-First Search, Binary Tree|
