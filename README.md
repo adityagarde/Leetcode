@@ -189,6 +189,7 @@
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1684.java)|Easy|String|
 |1689|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1689.java)|Medium|String, Greedy|
 |1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1695.java)|Medium|Array, Hash Table, Sliding Window|
+|1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1710.java)|Easy|Array, Greedy, Sorting|
 |1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1721.java)|Medium|Linked List, Two Pointers|
 |1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1773.java)|Easy|String|
 |1816|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1816.java)|Easy|String|
