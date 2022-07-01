@@ -106,6 +106,7 @@
 |0454|[4Sum II](https://leetcode.com/problems/4sum-ii/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0454.java)|Medium|Array, Hash Table|
 |0456|[132 Pattern](https://leetcode.com/problems/132-pattern/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0456.java)|Medium|Array, Stack, Monotonic Stack|
 |0461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0461.java)|Easy|Bit Manipulation|
+|0462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0462.java)|Medium|Array, Math, Sorting|
 |0477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0477.java)|Medium|Bit Manipulation|
 |0485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0485.java)|Easy|Array|
 |0496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0496.java)|Easy|Array, Stack, Hash Table|
