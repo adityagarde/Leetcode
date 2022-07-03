@@ -98,6 +98,7 @@
 |0347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0347.java)|Medium|Array, Hash Table, Heap(Priority Queue), Counting|
 |0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0349.java)|Easy|Array|
 |0367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0367.java)|Easy|Binary Search, Math|
+|0376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0376.java)|Medium|Array, Greedy|
 |0387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0387.java)|Easy|String, Hash Table|
 |0406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0406.java)|Medium|Array, Greedy, Sorting|
 |0410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0410.java)|Hard|Binary Search, Array, Greedy|
