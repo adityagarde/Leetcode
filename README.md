@@ -60,6 +60,7 @@
 |0124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0124.java)|Hard|Dynamic Programming, Tree, Depth-First Search, Binary Tree|
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0125.java)|Easy|Two Pointers, String|
 |0128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0128.java)|Medium|Array, Hash Table|
+|0135|[Candy](https://leetcode.com/problems/candy/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0135.java)|Hard|Array, Greedy|
 |0136|[Single Number](https://leetcode.com/problems/single-number/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0136.java)|Easy|Bit Manipulation|
 |0137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0137.java)|Medium|Bit Manipulation|
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0141.java)|Easy|Hash Table, Linked List, Two Pointers|
