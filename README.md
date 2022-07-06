@@ -115,6 +115,7 @@
 |0496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0496.java)|Easy|Array, Stack, Hash Table|
 |0500|[Keyboard Problem](https://leetcode.com/problems/keyboard-row/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0500.java)|Easy|Array, String|
 |0503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0503.java)|Medium|Array, Stack|
+|0509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0509.java)|Easy|Math, Dynamic Programming, Recursion, Memoization|
 |0515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0515.java)|Medium|Tree, Depth-First Search, Binary Search Tree, Binary Tree|
 |0523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0523.java)|Medium|Array, Hash Table, Math, Prefix Sum|
 |0532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0532.java)|Medium|Array, Hash Table|
