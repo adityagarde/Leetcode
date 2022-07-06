@@ -38,6 +38,7 @@
 |0066|[Plus One](https://leetcode.com/problems/plus-one/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0066.java)|Easy|Array|
 |0067|[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0067.java)|Easy|Bit Manipulation, String|
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0069.java)|Easy|Binary Search, Math|
+|0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0070.java)|Easy|Math, Dynamic Programming, Memoization|
 |0074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0074.java)|Medium|Binary Search, Matrix|
 |0075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0075.java)|Medium|Two Pointers, Array|
 |0078|[Subsets](https://leetcode.com/problems/subsets/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0078.java)|Medium|Array, Backtracking|
