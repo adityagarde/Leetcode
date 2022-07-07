@@ -35,6 +35,7 @@
 |0059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0059.java)|Medium|Array, Matrix, Simulation|
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0058.java)|Easy|String|
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0061.java)|Medium|LinkedList, Two Pointers|
+|0062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0062.java)|Medium|Math, Dynamic Programming|
 |0066|[Plus One](https://leetcode.com/problems/plus-one/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0066.java)|Easy|Array|
 |0067|[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0067.java)|Easy|Bit Manipulation, String|
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0069.java)|Easy|Binary Search, Math|
