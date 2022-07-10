@@ -86,6 +86,7 @@
 |0205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0205.java)|Easy|String, Hash Table|
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0206.java)|Easy|Linked List, Recursion|
 |0215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0215.java)|Medium|Array, Heap(Priority Queue)|
+|0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0217.java)|Easy|Array, Hash Table, Sorting|
 |0225|[Implement Stack using Queues](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0225.java)|Easy|Stack, Design, Queue|
 |0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0226.java)|Easy|Tree, Depth-First Search, Binary Search Tree, Binary Tree|
 |0230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0230.java)|Medium|Tree, Depth-First Search, Binary Search Tree, Binary Tree|
