@@ -148,6 +148,7 @@
 |0735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0735.java)|Medium|Array, Stack|
 |0739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0739.java)|Medium|Array, Stack|
 |0744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0744.java)|Easy|Binary Search, Array|
+|0746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0746.java)|Easy|Array, Dynamic Programming|
 |0771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0771.java)|Easy|String, Hash Table|
 |0784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0784.java)|Medium|String, Backtracking|
 |0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0844.java)|Easy|String, Stack, Simulation|
