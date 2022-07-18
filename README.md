@@ -177,6 +177,7 @@
 |1041|[Robot Bounded in Circle](https://leetcode.com/problems/robot-bounded-in-circle)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1041.java)|Medium|String, Math|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1046.java)|Easy|Array, Heap(Priority Queue)|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1047.java)|Easy|String, Stack|
+|1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1074.java)|Hard|Array, Hash Table, Matrix, Prefix Sum|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1108.java)|Easy|String|
 |1121|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1121.java)|Easy|String|
 |1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_1209.java)|Medium|String, Stack|
