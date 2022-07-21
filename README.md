@@ -49,6 +49,7 @@
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0088.java)|Easy|Two Pointers, Array|
 |0090|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0090.java)|Medium|Array, Backtracking|
 |0091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0091.java)|Medium|String, Dynamic Programming|
+|0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0092.java)|Medium|Linked List|
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0094.java)|Easy|Stack, Tree, Depth-First Search, Binary Tree|
 |0097|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0097.java)|Medium|String, Dynamic Programming|
 |0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0098.java)|Medium|Tree, Depth-First Search, Binary Search Tree, Binary Tree|
