@@ -46,6 +46,7 @@
 |0078|[Subsets](https://leetcode.com/problems/subsets/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0078.java)|Medium|Array, Backtracking|
 |0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0080.java)|Medium|Two Pointers, Array|
 |0081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0081.java)|Medium|Binary Search, Array|
+|0086|[Partition List](https://leetcode.com/problems/partition-list/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0086.java)|Medium|Linked List, Two Pointers|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0088.java)|Easy|Two Pointers, Array|
 |0090|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0090.java)|Medium|Array, Backtracking|
 |0091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](https://github.com/adityagarde/Leetcode/blob/main/src/com/github/aditya/_0091.java)|Medium|String, Dynamic Programming|
